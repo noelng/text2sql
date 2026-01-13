@@ -1,4 +1,5 @@
 Step-by-step: diagnose like a professional
+
 1️⃣ Confirm SQL Server is in Mixed Mode
 
 Run this in SSMS:
